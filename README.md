@@ -1,4 +1,4 @@
-# Thesis by Côme Morel, UMR ASTRE, on the ECOLOGY OF THE MOSQUITO VIROME
+# Thesis on the ECOLOGY OF THE MOSQUITO VIROME, by Côme Morel, UMR ASTRE
 Here you will find additional documents related to this thesis (linked to the different chapters and articles).<br> 
 <br>
 To access the documents you are interested in, click on the links below, which will take you to the document's Github page. Then simply click on the download icon at the top right of the code, labeled **"Download raw file"**.<br>
