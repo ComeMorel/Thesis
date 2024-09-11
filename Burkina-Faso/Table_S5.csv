@@ -1,0 +1,28 @@
+PERMANOVA species + sex + biotope + year;;;;;
+;Df;SumOfSqs;R2;F;Pr(>F)    
+species;1;17.12;0.47499;112.2132;0.0001 ***
+sex ;1;0.593;0.01645;3.8854;0.0101 *
+biotope;1;0.646;0.01793;4.2357;0.0073 **
+year;1;0.902;0.02502;5.9109;0.0012 **
+Residual                      ;110;16.782;0.46562;;
+Total         ;114;36.042;1;;
+;;;;;
+Culex quinquefasciatus;;;;;
+PERMANOVA sex + biotope * year;;;;;
+;Df;SumOfSqs;R2;F;Pr(>F)    
+sex ;1;0.4268;0.05599;4.4268;0.0001 ***
+biotope;1;0.2879;0.03777;2.9864;0.0020 ** 
+year;1;0.316;0.04146;3.2781;0.0014 **
+biotope:year;1;0.2291;0.03006;2.3766;0.0119 *
+Residual                      ;66;6.3629;0.83473;;
+Total         ;70;7.6227;1;;
+;;;;;
+Aedes aegypti;;;;;
+PERMANOVA sex + biotope * year;;;;;
+;Df;SumOfSqs;R2;F;Pr(>F)    
+sex ;1;0.7522;0.06657;4.4425;0.0080 ** 
+biotope;1;1.2577;0.1113;7.428;0.0003 ***
+year;1;2.1772;0.19267;12.8584;0.0001 ***
+biotope:year;1;0.5093;0.04507;3.0081;0.0322 *
+Residual                      ;39;6.6036;0.58438;;
+Total         ;43;11.3;1;;
