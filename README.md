@@ -9,6 +9,6 @@ Each folder corresponds to the different chapters of this thesis.
    - Table S3: Read count by VTU and taxonomy - [click here](https://github.com/ComeMorel/Thesis/blob/main/Chapter%203%3A%20Effect%20of%20the%20sex/Table_S3-Read%20count%20by%20VTU%20and%20taxonomy.csv)
    - Table S4: Output statistics of Generalized Linear Mixed models - [click here](https://github.com/ComeMorel/Thesis/blob/main/Chapter%203%3A%20Effect%20of%20the%20sex/Table_S4-Output%20statistics%20of%20Generalized%20Linear%20Mixed%20models.csv)
    - Table S5: Output statistics of the PERMANOVA models - [click here](https://github.com/ComeMorel/Thesis/blob/main/Chapter%203%3A%20Effect%20of%20the%20sex/Table_S5-Output%20statistics%20of%20the%20PERMANOVA%20models.csv)
-   - Table S6: Output statistics of the IndVal function and data used in defining new viral species - [click here]
+   - Table S6: Output statistics of the IndVal function and data used in defining new viral species - [click here](https://github.com/ComeMorel/Thesis/blob/main/Chapter%203%3A%20Effect%20of%20the%20sex/Table_S6-Output%20statistics%20of%20the%20IndVal%20function%20and%20data%20used%20in%20defining%20new%20viral%20species.csv)
    - Table S7: Output statistics from the R “binGroup” package - [click here]
    - Files containing all Supplementary figures and legends for the different Supplementary figures and tables - [click here]
