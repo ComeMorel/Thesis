@@ -1,0 +1,20 @@
+Culex, function IndVal.g, list of species associated to each combination:;;;;;;;
+;;;;;;;
+Group Male  #sps.  5 ;;;;;;;
+VTU;stat;p-value;Species name / New name;pident;qlen;slen;length
+VTU16_Spinareo    ;0.757;0.0001 ***;Atona virus;42;2501;784;730
+VTU3_Spinareo       ;0.733;0.0001 ***;Aedes pseudoscutellaris reovirus;91;1587;847;466
+VTU11_Nege          ;0.687;0.0074 ** ;Culex negev-like virus 1;99;11617;2726;2726
+VTU42_Tombus        ;0.571;0.0348 *;Ilo virus;89;1557;450;287
+VTU15_Toli_unclass   ;0.442;0.0230 *;Bejuita virus;41;2997;412;393
+;;;;;;;
+Group Female  #sps.  0 ;;;;;;;
+;;;;;;;
+;;;;;;;
+Aedes, function IndVal.g, list of species associated to each combination:;;;;;;;
+;;;;;;;
+Group Male  #sps.  1;;;;;;;
+VTU ;stat   ;p-value;Species name / New name;pident;qlen;slen;length
+VTU3_Spinareo ;0.717;0.0475 *;Aedes pseudoscutellaris reovirus;91;1587;847;466
+;;;;;;;
+Group Female  #sps.  0 ;;;;;;;
