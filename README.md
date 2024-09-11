@@ -1,7 +1,7 @@
 # Thesis by Côme Morel, UMR ASTRE, on the ECOLOGY OF THE MOSQUITO VIROME
-Here you will find additional documents related to this thesis (linked to the different chapters and articles). 
-To access the documents you are interested in, click on the links below, which will take you to the document's Github page. Then simply click on the download icon at the top right of the code, labeled **"Download raw file"**.
-Each folder corresponds to the different chapters of this thesis. 
+Here you will find additional documents related to this thesis (linked to the different chapters and articles).<br> 
+To access the documents you are interested in, click on the links below, which will take you to the document's Github page. Then simply click on the download icon at the top right of the code, labeled **"Download raw file"**.<br>
+Each folder corresponds to the different chapters of this thesis.<br> 
  - Chapter 1: Effect of urbanization and temporal dynamics on the structure of the Culex pipiens virome in southern France
  - Chapter 2: Effect of mosquito species and host taxonomy on the virome structure of mosquitoes in northern Senegal
  -  [Chapter 3: Effect of sex on the virome structure of two host mosquito species, Culex quinquefasciatus and Aedes aegypti, in Burkina Faso](https://github.com/ComeMorel/Thesis/tree/main/Chapter%203%3A%20Effect%20of%20the%20sex)
