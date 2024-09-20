@@ -5,7 +5,7 @@ To access the documents you are interested in, click on the links below, which w
 <br>
 Each folder corresponds to the different chapters of this thesis.<br> 
 <br>
- - Chapter 1: Effect of urbanization and temporal dynamics on the structure of the Culex pipiens virome in southern France
+ - [Chapter 1: Effect of urbanization and temporal dynamics on the structure of the Culex pipiens virome in southern France](https://github.com/ComeMorel/Thesis/tree/main/Chapter%201%3A%20Temporal%20structure%20in%20the%20mosquito%20virome)
  - [Chapter 2: Effect of mosquito species and host taxonomy on the virome structure of mosquitoes in northern Senegal](https://github.com/ComeMorel/Thesis/tree/main/Chapter%202%3A%20Effect%20of%20host%20species) - Paper available online via this link (article published in PLoS ONE): [https://doi.org/10.1371/journal.pone.0300915](https://doi.org/10.1371/journal.pone.0300915)
     - Table S1: Literature analysis of the host range (Host) and geographic range (Country) of known generalist viruses found in this study - [click here](https://github.com/ComeMorel/Thesis/raw/main/Chapter%202:%20Effect%20of%20host%20species/Table%20S1.xlsx)
     - Table S2: Output of the homology and taxonomy search for the Culex dataset - [click here](https://github.com/ComeMorel/Thesis/raw/main/Chapter%202:%20Effect%20of%20host%20species/Table%20S2.xlsx)
