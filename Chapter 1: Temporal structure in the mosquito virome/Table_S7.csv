@@ -1,0 +1,17 @@
+Formulas;chi2;F;P;P2
+Month;0.320628787;26.66513697;1.00E-04;0.42
+Urbanization;0.000446396;0.100930628;0.7693;0.62
+Year;0.024400567;5.652451206;0.0275;0.11
+Month + Urbanization;0.322978868;21.56305641;1.00E-04;0.37
+Month + Year;0.322752871;21.5407776;1.00E-04;0.42
+Urbanization + Year;0.024630098;2.853482625;0.0664;0.22
+Month + Urbanization + Year;0.324991418;18.13509303;1.00E-04;0.39
+Month + Condition(Urbanization) + Condition(Year);0.30036132;24.9185483;1.00E-04;0.42
+Condition(Month) + Urbanization + Condition(Year);0.002238547;0.732907579;0.4045;0.51
+Condition(Month) + Condition(Urbanization) + Year;0.00201255;0.65891538;0.4199;0.4
+Month + Condition(Year);0.298352304;24.78019676;1.00E-04;0.44
+Month + Condition(Urbanization);0.322532472;26.79746718;1.00E-04;0.39
+Urbanization + Condition(Year);0.000229531;0.052948544;0.8267;0.71
+Urbanization + Condition(Month);0.002350082;0.770608322;0.3816;0.44
+Year + Condition(Month);0.002124084;0.696269842;0.4123;0.4
+Year + Condition(Urbanization);0.024183702;5.578737719;0.0219;0.13
