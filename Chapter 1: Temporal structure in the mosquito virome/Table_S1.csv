@@ -1,0 +1,19 @@
+Site;Agency;distance;city;population;Y;X;Urban;Cropland;Natural_Semi-natural;Urbanization_level
+Beaucaire;MontCalm;3;Beaucaire;16000;43.757356;4.616922;0;1072;177;Rural
+Bellegarde;MontCalm;0.4;Bellegarde;6800;43.743289;4.504911;336;543;370;Urban
+Belugue;Arles;3.5;Salins de Giraud;2000;43.4224;4.683583;0;42;1205;Rural
+BE;MontCalm;3;Saint-Gilles;13200;43.649133;4.393586;0;752;499;Rural
+BF;Arles;0.1;Port-Saint-Louis-du-Rh�ne;8530;43.398997;4.786167;160;0;1093;Urban
+CE;Arles;0.1;Salin de Giraud;2000;43.412728;4.727344;137;0;1115;Urban
+CampE;Frejorgues;0.73;Vic la gardiole;3200;43.489311;3.777122;98;459;696;Rural
+Desert;Frejorgues;1;Frontignan;23000;43.471222;3.780538;73;508;675;Rural
+Jardin;Arles;0.2;Salins de Giraud;2000;43.414647;4.741686;137;0;1121;Urban
+JB;MontCalm;0.1;Saint-Laurent-d'Aigouze;3500;43.632844;4.206275;132;1108;16;Urban
+Palissade;Arles;0.4;Port-Saint-Louis-du-Rh�ne;8530;43.376322;4.809947;234;0;1012;Urban
+Elysette;MontCalm;0.44;Le Grau du Roi;8400;43.516075;4.155689;360;207;684;Urban
+MA;MontCalm;0.05;Aigues-Mortes;8300;43.568094;4.208122;229;674;343;Urban
+PS;MontCalm;12;Saint-Gilles;13200;43.571267;4.382242;0;255;999;Rural
+PN;Arles;0.72;Port Saint Louis;8530;43.376867;4.823775;237;0;1011;Urban
+Roustan;Arles;3.5;Port-Saint-Louis-du-Rh�ne;8530;43.359792;4.847725;0;0;1249;Rural
+SG;MontCalm;0.26;Saint-Gilles;13200;43.666242;4.847725;0;500;751;Rural
+Eysselle;Arles;2.3;Port-Saint-Louis-du-Rh�ne;8530;43.415483;4.769972;0;0;1248;Rural
