@@ -1,0 +1,9 @@
+Virus group;VTUs;Virus families 
+B1;VTU53_Chryso, VTU57_Bunya_unclass, VTU60_Ifla, VTU64_Martelli_unclass;Chrysoviridae, Iflaviridae, unclassfied Bunyavirales, unclassified Martellivirales
+B2;VTU51_Toli_unclass, VTU54_Rhabdo, VTU56_Partiti, VTU59_Luteo;Rhabdoviridae, Partitiviridae, Luteoviridae, unclassified Tolivirales
+B3;VTU52_Nege, VTU62_Mesoni, VTU65_Nege;Negevirus, Mesoniviridae
+B4;VTU21_Picorna_unclass, VTU24_Noda, VTU31_Bunya_unclass, VTU44_Picorna, VTU61_Circo, VTU67_Tombus;Nodaviridae, Picornaviridae, Circoviridae, Tombusviridae, unclassified Picornavirales, unclassified Bunyavirales
+B5;VTU11_Mymona, VTU13_Qin, VTU20_Phasma, VTU22_Toti, VTU26_Reo, VTU30_Qin, VTU43_Partiti, VTU45_Reo, VTU47_Partiti, VTU48_Qin, VTU55_Ifla, VTU63_Chu, VTU6_Mononega_unclass;Mymonaviridae, Qinviridae, Phasmaviridae, Totiviridae, Reoviridae, Partitiviridae, Iflaviridae, Chuviridae, unclassified Mononegavirales 
+B6;VTU10_Reo_unclass, VTU14_Toti, VTU18_Solemo, VTU58_Permutotetra, VTU5_Nege;Totiviridae, Solemoviridae, Permutotetraviridae, Negevirus, unclassified Reovirales
+B7;VTU12_Toti, VTU15_Virga, VTU16_Partiti, VTU17_Partiti, VTU19_Orthomyxo, VTU1_Noda, VTU23_Noda_unclass, VTU25_Noda, VTU27_Bunya_unclass, VTU28_Reo_unclass, VTU29_Parvo, VTU2_Circo, VTU32_Narna, VTU33_Chu, VTU34_Nege,  VTU35_Nege, VTU36_Orthomyxo, VTU37_Luteo-Sobemo, VTU38_Leishbunya, VTU3_Peribunya, VTU40_Bunya_unclass, VTU41_Serpento_unclass, VTU42_Orthomyxo, VTU46_Peribunya, VTU49_Reo, VTU4_Permutotetra, VTU50_Alius, VTU7_Dicistro, VTU8_Dicistro, VTU9_Luteo;Totiviridae, Virgaviridae, Partitiviridae, Orthomyxoviridae, Nodaviridae, Parvoviridae, Circoviridae, Narnaviridae, Chuviridae, Negevirus, Luteo-Sobemo family, Leishbunyaviridae, Peribunyaviridae, Reoviridae, Aliusviridae, Dicistroviridae, Luteoviridae, unclassified Nodavirales, unclassified Bunyavirales, unclassified Reovirales, unclassified Serpentovirales
+ungroup;VTU39_Quenya, VTU66_Nudi;Quenyaviridae, Nudiviridae
